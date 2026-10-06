@@ -2,9 +2,9 @@
 
 <!-- PROFILE PHOTO -->
 
-<img src="./assets/shehad-photo.png" width="130" alt="Shehad Raza"/>
+<img src="./assets/shehad-photo.png" width="150" alt="Shehad Raza"/>
 
-<br/><br/>
+<br/>
 
 <!-- BANNER -->
 
