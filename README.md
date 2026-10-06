@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- PROFILE PHOTO -->
 
-<img src="./assets/shehad-photo.jpg" width="150" alt="Shehad Raza"/>
-
-<br/>
 
 <!-- BANNER -->
 
-<img src="./assets/shehad-banner.png" width="780" alt="Shehad Raza Banner"/>
+<img src="./assets/shehad-banner.png" width="900" alt="Shehad Raza Banner"/>
 
 <br/><br/>
 
