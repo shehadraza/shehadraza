@@ -1,23 +1,7 @@
 <div align="center">
 
 
-<!-- ========================= BANNER ========================= -->
 
-<img src="./assets/shehad-banner.png" width="780" alt="Shehad Raza Banner"/>
-
-<br/><br/>
-
-<!-- ========================= TYPING EFFECT ========================= -->
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehad+Raza;Software+Engineering+Student;Software+%26+Full-Stack+Developer;Building+Modern+Web+Applications;Building+Mobile+Applications;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shehadraza&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
-
-</div>
 
 
 
