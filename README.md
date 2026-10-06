@@ -2,7 +2,7 @@
 
 <!-- PROFILE PHOTO -->
 
-<img src="./assets/shehad-photo.png" width="150" alt="Shehad Raza"/>
+<img src="./assets/shehad-photo.jpg" width="150" alt="Shehad Raza"/>
 
 <br/>
 
