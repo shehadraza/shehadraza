@@ -43,7 +43,7 @@
 <div align="center">
 
 <img
-  src="./assets/shehad-photo.jpg"
+  src="./assets/shehad-photo-landscape-styled.jpg"
   width="180"
   height="230"
   alt="Shehad Raza"
