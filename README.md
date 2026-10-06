@@ -1,18 +1,16 @@
-<!-- ========================= BANNER ========================= -->
 <div align="center">
 
-<img src="./assets/shehad-banner.png" alt="Shehad Raza" width="100%">
+<!-- ========================= HERO ========================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0f172a,65:172554,100:0369a1&text=Hello%20World%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20%7C%20WEB%20%7C%20MOBILE%20%7C%20AI&descAlignY=60&descSize=16&stroke=38bdf8&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:0f172a,65:172554,100:0369a1&text=SHEHAD%20RAZA&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20%7C%20WEB%20%7C%20MOBILE%20%7C%20AI&descAlignY=60&descSize=17&stroke=38bdf8&strokeWidth=1"/>
 
-<!-- ========================= TITLE + TYPING ========================= -->
-<h1>Hi 👋, I'm Shehad Raza</h1>
+<br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Software+%26+Full-Stack+Developer;Building+Modern+Web+Applications;Building+Mobile+Applications;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehad+Raza;Software+Engineering+Student;Software+%26+Full-Stack+Developer;Building+Modern+Web+Applications;Building+Mobile+Applications;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=shehadraza&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
 
@@ -21,9 +19,10 @@
 <br/>
 
 <!-- ========================= ABOUT ========================= -->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> About Me
 
-<img align="right" width="300" src="./assets/shehad-photo.jpg" alt="Shehad Raza"/>
+## 🧑‍💻 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
 - 👋 Hi, I'm **Shehad Raza**
 - 🎓 Software Engineering Student
@@ -42,6 +41,7 @@
 ---
 
 <!-- ========================= WHAT I DO ========================= -->
+
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> What I Build
 
 <div align="center">
@@ -56,6 +56,7 @@
 Practical software solutions for real-world problems.
 
 </td>
+
 <td align="center" width="33%">
 
 ### 🌐
@@ -64,6 +65,7 @@ Practical software solutions for real-world problems.
 Modern, responsive and high-performance web apps.
 
 </td>
+
 <td align="center" width="33%">
 
 ### 📱
@@ -73,6 +75,7 @@ Cross-platform mobile apps with modern UI/UX.
 
 </td>
 </tr>
+
 <tr>
 <td align="center">
 
@@ -82,6 +85,7 @@ Cross-platform mobile apps with modern UI/UX.
 AI-powered applications and intelligent features.
 
 </td>
+
 <td align="center">
 
 ### ⚙️
@@ -90,6 +94,7 @@ AI-powered applications and intelligent features.
 REST APIs, authentication, business logic and server-side systems.
 
 </td>
+
 <td align="center">
 
 ### 🗄️
@@ -106,6 +111,7 @@ Designing and integrating reliable application databases.
 ---
 
 <!-- ========================= SOCIALS ========================= -->
+
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> Connect With Me
 
 <div align="center">
@@ -113,9 +119,11 @@ Designing and integrating reliable application databases.
 <a href="https://github.com/shehadraza">
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+<a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -125,51 +133,75 @@ Designing and integrating reliable application databases.
 ---
 
 <!-- ========================= TECH STACK ========================= -->
+
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> Technology Stack
 
 ### 💻 Languages
+
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=js,ts,python,dart,java,cpp,c&perline=7"/>
+
 </div>
 
 ### 🎨 Frontend
+
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=6"/>
+
 </div>
 
 ### ⚙️ Backend
+
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=6"/>
+
 </div>
 
 ### 📱 Mobile
+
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=5"/>
+
 </div>
 
 ### 🗄️ Database
+
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase&perline=6"/>
+
 </div>
 
 ### ☁️ DevOps & Deployment
+
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,githubactions&perline=6"/>
+
 </div>
 
 ### 🧰 Tools
+
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion&perline=6"/>
+
 </div>
 
 ---
 
 <!-- ========================= PROJECTS ========================= -->
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 ### 🏥 Medi
+
 **Smart Healthcare & AI Assistant**
 
 💊 Medicine Reminders  
@@ -184,6 +216,7 @@ Designing and integrating reliable application databases.
 ---
 
 ### 👕 A-POSITIVE
+
 **Premium Fashion E-Commerce Platform**
 
 🛍️ Product Management  
@@ -199,6 +232,7 @@ Designing and integrating reliable application databases.
 ---
 
 ### 🏋️ Fitlog
+
 **Workout Planning & Management Application**
 
 🏋️ Workout Plans  
@@ -213,11 +247,13 @@ Designing and integrating reliable application databases.
 ---
 
 <!-- ========================= STATS ========================= -->
+
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> GitHub Statistics & Analysis
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=shehadraza&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehadraza&layout=compact&hide_border=true&theme=tokyonight"/>
 
 <br/>
@@ -229,18 +265,23 @@ Designing and integrating reliable application databases.
 ### 📈 Contribution Activity
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehadraza&bg_color=020617&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="98%"/>
+
 </div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/shehadraza/shehadraza/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
+
 </div>
 
 ---
 
 <!-- ========================= LEARNING ========================= -->
+
 ## 🧠 Currently Learning
 
 <div align="center">
@@ -254,6 +295,7 @@ Designing and integrating reliable application databases.
 ---
 
 <!-- ========================= GOALS ========================= -->
+
 ## 🎯 2026 — What I'm Working Toward
 
 <div align="center">
@@ -261,11 +303,15 @@ Designing and integrating reliable application databases.
 ```text
 ╔══════════════════════════════════════════════╗
 ║                                              ║
-║   💻 Become a stronger Software Engineer     ║
-║   🚀 Build production-ready applications     ║
-║   🤖 Explore practical AI solutions          ║
-║   🌐 Build scalable digital products         ║
-║   📚 Keep learning. Keep building.           ║
+║   💻 Become a stronger Software Engineer    ║
+║                                              ║
+║   🚀 Build production-ready applications    ║
+║                                              ║
+║   🤖 Explore practical AI solutions         ║
+║                                              ║
+║   🌐 Build scalable digital products        ║
+║                                              ║
+║   📚 Keep learning. Keep building.          ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
@@ -275,6 +321,7 @@ Designing and integrating reliable application databases.
 ---
 
 <!-- ========================= PHILOSOPHY ========================= -->
+
 ## 💡 Developer Philosophy
 
 <div align="center">
@@ -290,15 +337,19 @@ Designing and integrating reliable application databases.
 ---
 
 <!-- ========================= QUOTE ========================= -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Random Dev Quote
 
 <div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </div>
 
 ---
 
 <!-- ========================= FOOTER ========================= -->
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile
