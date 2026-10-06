@@ -40,6 +40,11 @@
 
 <br clear="right"/>
 
+<div align="center">
+<img src="./assets/shehad-photo.jpg" width="130" alt="Shehad Raza"/>
+</div>
+<br/>
+
 ---
 
 <!-- ========================= WHAT I BUILD ========================= -->
