@@ -1,74 +1,146 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,24,30&text=SHEHAD%20RAZA&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20%7C%20WEB%20%7C%20MOBILE%20%7C%20AI&descSize=16&descAlignY=60" width="100%"/>
+<!-- ========================= HERO ========================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:0f172a,65:172554,100:0369a1&text=SHEHAD%20RAZA&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20%7C%20WEB%20%7C%20MOBILE%20%7C%20AI&descAlignY=60&descSize=17&stroke=38bdf8&strokeWidth=1"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehad+Raza;Software+Engineering+Student;Full-Stack+Software+Developer;Web+%26+Mobile+App+Developer;AI+%26+Modern+Technology+Enthusiast;Building+Ideas+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehad+Raza;Software+Engineering+Student;Software+%26+Full-Stack+Developer;Building+Modern+Web+Applications;Building+Mobile+Applications;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=shehadraza&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
 
 </div>
 
 <br/>
 
----
+<!-- ========================= INTRO ========================= -->
+
+<div align="center">
+
+## ⚡ Building Digital Experiences That Matter
+
+</div>
+
+<p align="center">
+I’m a <b>Software Engineering student and developer</b> passionate about creating
+modern, scalable and meaningful digital products.
+</p>
+
+<br/>
+
+<!-- ========================= ABOUT ========================= -->
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 👋 Hi, I'm **Shehad Raza**
 - 🎓 Software Engineering Student
 - 💻 Software & Full-Stack Developer
-- 🌐 Building modern Web Applications
-- 📱 Developing Mobile Applications
-- 🤖 Interested in AI & AI-powered applications
-- ⚙️ Working with modern frontend & backend technologies
-- 🚀 Passionate about turning ideas into real-world products
+- 🌐 Web Application Developer
+- 📱 Mobile Application Developer
+- 🤖 AI & AI-powered Application Enthusiast
+- ⚙️ Backend & REST API Development
+- 🗄️ Database & Cloud Technologies
+- 🚀 Passionate about building real-world products
 - 🏢 Building digital solutions with **Nexora Tech**
-- 🌱 Always learning, building and improving
+- 🌱 Constantly learning and improving
 
 <br clear="right"/>
 
 ---
 
-## ⚡ What I Do
+<!-- ========================= WHAT I DO ========================= -->
+
+## 🚀 What I Build
 
 <div align="center">
 
-| 💻 Software Development | 🌐 Web Development | 📱 Mobile Development |
-| :---: | :---: | :---: |
-| Building real-world software | Modern responsive websites | Cross-platform applications |
+<table>
+<tr>
+<td align="center" width="33%">
 
-| 🤖 AI Solutions | ⚙️ Backend Development | 🗄️ Database |
-| :---: | :---: | :---: |
-| AI-powered applications | APIs & server-side systems | Data & application management |
+### 💻
+### Software Development
+
+Building practical software solutions for real-world problems.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐
+### Web Development
+
+Modern, responsive and high-performance web applications.
+
+</td>
+
+<td align="center" width="33%">
+
+### 📱
+### Mobile Development
+
+Cross-platform mobile applications with modern UI/UX.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🤖
+### AI Solutions
+
+AI-powered applications and intelligent features.
+
+</td>
+
+<td align="center">
+
+### ⚙️
+### Backend & APIs
+
+REST APIs, authentication, business logic and server-side systems.
+
+</td>
+
+<td align="center">
+
+### 🗄️
+### Database
+
+Designing and integrating reliable application databases.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+<!-- ========================= SOCIAL ========================= -->
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/shehadraza">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -77,9 +149,11 @@
 
 ---
 
+<!-- ========================= TECH STACK ========================= -->
+
 ## 🛠️ Technology Stack
 
-### 👨‍💻 Programming Languages
+### 💻 Languages
 
 <div align="center">
 
@@ -87,7 +161,7 @@
 
 </div>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <div align="center">
 
@@ -95,15 +169,15 @@
 
 </div>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=5"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=6"/>
 
 </div>
 
-### 📱 Mobile Development
+### 📱 Mobile
 
 <div align="center">
 
@@ -111,7 +185,7 @@
 
 </div>
 
-### 🗄️ Database & Backend Services
+### 🗄️ Database
 
 <div align="center">
 
@@ -119,11 +193,11 @@
 
 </div>
 
-### ☁️ Deployment & DevOps
+### ☁️ DevOps & Deployment
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,docker,githubactions&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,githubactions&perline=6"/>
 
 </div>
 
@@ -131,64 +205,73 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&perline=6"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion&perline=6"/>
 
 </div>
 
 ---
 
+<!-- ========================= PROJECTS ========================= -->
+
 ## 🚀 Featured Projects
 
-### 🏥 Medi — Smart Healthcare Application
+<div align="center">
 
-> A healthcare-focused mobile application designed to make medicine management and healthcare assistance easier.
+### 🏥 Medi
 
-**Features**
+**Smart Healthcare & AI Assistant**
 
-- 💊 Medicine Reminders
-- 📊 Medicine Analytics
-- 🤖 AI Doctor Assistant
-- 👨‍⚕️ Specialist Recommendation
-- 🏥 Hospital Discovery
-- 🌐 Backend API Integration
+💊 Medicine Reminders  
+📊 Health & Medicine Analytics  
+🤖 AI Doctor Assistant  
+👨‍⚕️ Specialist Recommendation  
+🏥 Hospital Discovery  
+🌐 Backend API Integration
 
-**Built With:** `Flutter` `Dart` `Node.js` `Express.js` `REST API` `AI`
-
----
-
-### 👕 A-POSITIVE — Fashion E-Commerce
-
-> A modern fashion e-commerce platform designed for premium brands and online customers.
-
-**Features**
-
-- 🛍️ Product Management
-- 🛒 Shopping Cart
-- 📦 Order Management
-- 👤 Customer Management
-- 🔐 Admin Control Center
-- 💰 Dynamic Pricing
-- 🎨 Modern UI/UX
-
-**Built With:** `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
+`Flutter` `Dart` `Node.js` `Express.js` `REST API` `AI`
 
 ---
 
-### 🏋️ Fitlog — Workout Management
+### 👕 A-POSITIVE
 
-> A modern workout planning application for creating and managing personalized workout routines.
+**Premium Fashion E-Commerce Platform**
 
-**Built With:** `Next.js` `React` `Tailwind CSS`
+🛍️ Product Management  
+🛒 Shopping Cart  
+📦 Order Management  
+👤 Customer Management  
+🔐 Admin Control Center  
+💰 Dynamic Pricing  
+🎨 Modern UI/UX
+
+`Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
 ---
+
+### 🏋️ Fitlog
+
+**Workout Planning & Management Application**
+
+🏋️ Workout Plans  
+✅ Exercise Tracking  
+💾 Saved Workouts  
+📱 Responsive Interface
+
+`Next.js` `React` `Tailwind CSS`
+
+</div>
+
+---
+
+<!-- ========================= GITHUB STATS ========================= -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shehadraza&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehadraza&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </div>
 
@@ -196,70 +279,93 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=shehadraza&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </div>
 
 ---
+
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shehadraza&bg_color=020617&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="98%"/>
+
+</div>
+
+---
+
+<!-- ========================= SNAKE ========================= -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/shehadraza/shehadraza/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Contribution Graph
+<!-- ========================= CURRENTLY LEARNING ========================= -->
+
+## 🧠 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" width="95%"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Advanced+Full-Stack+Development;Next.js+%26+Modern+React;Backend+Architecture;AI+Application+Development;Cloud+%26+DevOps;Software+Engineering+Best+Practices" alt="Learning"/>
+</a>
 
 </div>
 
 ---
 
-## 🎯 Currently Learning
+<!-- ========================= GOALS ========================= -->
+
+## 🎯 2026 — What I'm Working Toward
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Advanced+Full-Stack+Development;Next.js+%26+Modern+React;Backend+Architecture;AI+Application+Development;Cloud+%26+DevOps;Software+Engineering+Best+Practices" />
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   💻 Become a stronger Software Engineer    ║
+║                                              ║
+║   🚀 Build production-ready applications    ║
+║                                              ║
+║   🤖 Explore practical AI solutions         ║
+║                                              ║
+║   🌐 Build scalable digital products        ║
+║                                              ║
+║   📚 Keep learning. Keep building.          ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 💡 My Developer Philosophy
+<!-- ========================= PHILOSOPHY ========================= -->
+
+## 💡 Developer Philosophy
 
 <div align="center">
 
-### `"Build. Learn. Improve. Repeat."`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Build+with+purpose.;Learn+every+day.;Solve+real+problems.;Write+better+code.;Keep+moving+forward." />
 
-<br/>
+<br/><br/>
 
-**I don't just write code — I build solutions.**
-
-</div>
-
----
-
-## 🤝 Open To
-
-<div align="center">
-
-🚀 Interesting Projects &nbsp; • &nbsp;
-💻 Software Development &nbsp; • &nbsp;
-🤖 AI Projects &nbsp; • &nbsp;
-🌐 Web Applications &nbsp; • &nbsp;
-📱 Mobile Applications &nbsp; • &nbsp;
-🤝 Collaboration
+### **“I don't just write code — I build solutions.”**
 
 </div>
 
 ---
+
+<!-- ========================= QUOTE ========================= -->
 
 ## 💬 Random Developer Quote
 
@@ -273,10 +379,18 @@
 
 ---
 
+<!-- ========================= FOOTER ========================= -->
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%E2%80%A2+Repeat" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0369a1,35:172554,65:0f172a,100:020617&animation=twinkling"/>
 
 </div>
