@@ -1,14 +1,5 @@
 <div align="center">
-<div align="center">
 
-<!-- ========================= INTRO VIDEO ========================= -->
-
-<video width="500" controls autoplay muted loop playsinline>
-  <source src="./assets/shehad-intro.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<br/><br/>
 
 <!-- ========================= BANNER ========================= -->
 
@@ -70,8 +61,10 @@
 
 <div align="center">
 
-<img src="./assets/shehad-photo-landscape-styled.jpg"  alt="Shehad Raza"/>
-/>
+<video width="500" controls autoplay muted loop playsinline>
+  <source src="./assets/shehad-intro.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 
