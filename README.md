@@ -4,7 +4,7 @@
 
 <!-- BANNER -->
 
-<img src="./assets/shehad-banner.png" width="900" alt="Shehad Raza Banner"/>
+<img src="./assets/shehad-banner.png" width="100%" alt="Shehad Raza Banner"/>
 
 <br/><br/>
 
@@ -42,11 +42,7 @@
 
 <div align="center">
 
-<img
-  src="./assets/shehad-photo-landscape-styled.jpg"
-  width="180"
-  height="230"
-  alt="Shehad Raza"
+<img src="./assets/shehad-photo-landscape-styled.jpg"  alt="Shehad Raza"/>
 />
 
 </div>
