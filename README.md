@@ -2,7 +2,9 @@
 
 <!-- ═════════════════════════ BANNER ═════════════════════════ -->
 
-<img src="./assets/banner.png" alt="Shehad Raza" width="100%"/>
+<a href="https://github.com/shehadraza">
+<img src="./assets/banner.png" alt="Shehad Raza — Software Engineer" width="100%"/>
+</a>
 
 <br/>
 
@@ -18,6 +20,7 @@
 <br/><br/>
 
 <a href="https://github.com/shehadraza"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/shehadraza?tab=followers"><img src="https://img.shields.io/github/followers/shehadraza?label=Follow&style=for-the-badge&logo=github&color=2563eb&labelColor=0f172a"/></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -57,7 +60,7 @@ I'm a **Software Engineering student and developer** focused on building modern,
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/profile.jpg" width="230" style="border-radius:16px" alt="Shehad Raza"/>
+<a href="https://github.com/shehadraza"><img src="./assets/profile.jpg" width="230" alt="Shehad Raza"/></a>
 
 </td>
 </tr>
@@ -168,6 +171,12 @@ A clean app for creating and managing personalized workout routines.
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<a href="https://github.com/shehadraza?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-2563eb?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/></a>
+
+</div>
 
 ---
 
