@@ -1,40 +1,24 @@
 <div align="center">
 
-<!-- ========================= PROFILE PHOTO ========================= -->
+<!-- PROFILE PHOTO -->
 
-<img
-  src="./assets/shehad-photo.jpg"
-  width="140"
-  alt="Shehad Raza"
-/>
+<img src="./assets/shehad-photo.png" width="130" alt="Shehad Raza"/>
 
 <br/><br/>
 
-<!-- ========================= BANNER ========================= -->
+<!-- BANNER -->
 
-<img
-  src="./assets/shehad-banner.png"
-  width="850"
-  alt="Shehad Raza Banner"
-/>
+<img src="./assets/shehad-banner.png" width="780" alt="Shehad Raza Banner"/>
 
 <br/><br/>
 
-<!-- ========================= TYPING ========================= -->
+<!-- TYPING -->
 
-<a href="https://git.io/typing-svg">
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehad+Raza;Software+Engineering+Student;Software+%26+Full-Stack+Developer;Full-Stack+%7C+Web+%7C+Mobile+%7C+AI;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80"
-  alt="Typing SVG"
-/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehad+Raza;Software+Engineering+Student;Software+%26+Full-Stack+Developer;Full-Stack+%7C+Web+%7C+Mobile+%7C+AI;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=shehadraza&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"
-  alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=shehadraza&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
