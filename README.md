@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ========================= HERO ========================= -->
+<!-- ========================= BANNER ========================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:0f172a,65:172554,100:0369a1&text=SHEHAD%20RAZA&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20%7C%20WEB%20%7C%20MOBILE%20%7C%20AI&descAlignY=60&descSize=17&stroke=38bdf8&strokeWidth=1"/>
+<img src="./assets/shehad-banner.png" width="100%" alt="Shehad Raza Banner"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehad+Raza;Software+Engineering+Student;Software+%26+Full-Stack+Developer;Building+Modern+Web+Applications;Building+Mobile+Applications;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -40,7 +40,7 @@
 
 ---
 
-<!-- ========================= WHAT I DO ========================= -->
+<!-- ========================= WHAT I BUILD ========================= -->
 
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> What I Build
 
@@ -110,7 +110,7 @@ Designing and integrating reliable application databases.
 
 ---
 
-<!-- ========================= SOCIALS ========================= -->
+<!-- ========================= CONNECT ========================= -->
 
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> Connect With Me
 
@@ -132,7 +132,7 @@ Designing and integrating reliable application databases.
 
 ---
 
-<!-- ========================= TECH STACK ========================= -->
+<!-- ========================= TECHNOLOGY STACK ========================= -->
 
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> Technology Stack
 
@@ -194,7 +194,7 @@ Designing and integrating reliable application databases.
 
 ---
 
-<!-- ========================= PROJECTS ========================= -->
+<!-- ========================= FEATURED PROJECTS ========================= -->
 
 ## 🚀 Featured Projects
 
@@ -246,7 +246,7 @@ Designing and integrating reliable application databases.
 
 ---
 
-<!-- ========================= STATS ========================= -->
+<!-- ========================= GITHUB STATISTICS ========================= -->
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> GitHub Statistics & Analysis
 
@@ -256,31 +256,51 @@ Designing and integrating reliable application databases.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehadraza&layout=compact&hide_border=true&theme=tokyonight"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=shehadraza&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </div>
 
-### 📈 Contribution Activity
+---
+
+<!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shehadraza&bg_color=020617&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shehadraza&bg_color=020617&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub Contribution Activity"/>
 
 </div>
 
-### 🐍 Contribution Snake
+<br/>
+
+<!-- ========================= CONTRIBUTION CALENDAR ========================= -->
+
+## 🗓️ Contribution Calendar
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shehadraza/shehadraza/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehadraza&theme=tokyonight" width="98%" alt="GitHub Contribution Calendar"/>
 
 </div>
 
 ---
 
-<!-- ========================= LEARNING ========================= -->
+<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shehadraza/shehadraza/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<!-- ========================= CURRENTLY LEARNING ========================= -->
 
 ## 🧠 Currently Learning
 
@@ -294,7 +314,7 @@ Designing and integrating reliable application databases.
 
 ---
 
-<!-- ========================= GOALS ========================= -->
+<!-- ========================= 2026 GOALS ========================= -->
 
 ## 🎯 2026 — What I'm Working Toward
 
@@ -312,52 +332,3 @@ Designing and integrating reliable application databases.
 ║   🌐 Build scalable digital products        ║
 ║                                              ║
 ║   📚 Keep learning. Keep building.          ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<!-- ========================= PHILOSOPHY ========================= -->
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Build+with+purpose.;Learn+every+day.;Solve+real+problems.;Write+better+code.;Keep+moving+forward."/>
-
-<br/><br/>
-
-### **“I don't just write code — I build solutions.”**
-
-</div>
-
----
-
-<!-- ========================= QUOTE ========================= -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<!-- ========================= FOOTER ========================= -->
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%E2%80%A2+Repeat"/>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0369a1,35:172554,65:0f172a,100:020617&animation=twinkling"/>
-
-</div>
