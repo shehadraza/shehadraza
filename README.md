@@ -270,10 +270,21 @@ Designing and integrating reliable application databases.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shehadraza&bg_color=020617&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub Contribution Activity"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehadraza&theme=tokyonight" width="98%" alt="GitHub Contribution Activity"/>
 
 </div>
 
+<br/>
+
+<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shehadraza/shehadraza/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+
+</div>
 <br/>
 
 <!-- ========================= CONTRIBUTION CALENDAR ========================= -->
@@ -314,21 +325,42 @@ Designing and integrating reliable application databases.
 
 ---
 
-<!-- ========================= 2026 GOALS ========================= -->
+<!-- ========================= DEVELOPER PHILOSOPHY ========================= -->
 
-## 🎯 2026 — What I'm Working Toward
+💡 Developer Philosophy
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   💻 Become a stronger Software Engineer    ║
-║                                              ║
-║   🚀 Build production-ready applications    ║
-║                                              ║
-║   🤖 Explore practical AI solutions         ║
-║                                              ║
-║   🌐 Build scalable digital products        ║
-║                                              ║
-║   📚 Keep learning. Keep building.          ║
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Build+with+purpose.;Learn+every+day.;Solve+real+problems.;Write+better+code.;Keep+moving+forward."/>
+
+<br/><br/>
+
+“I don't just write code — I build solutions.”
+
+</div>
+
+<!-- ========================= RANDOM DEV QUOTE ========================= -->
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<!-- ========================= FOOTER ========================= -->
+
+<div align="center">
+
+<br/>
+
+⭐ Thanks for visiting my profile
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Let's+build+something+amazing+together+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%E2%80%A2+Repeat;Thanks+for+stopping+by+%F0%9F%91%8B"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0369a1,35:172554,65:0f172a,100:020617&animation=twinkling" width="100%"/>
+
+</div>
