@@ -3,7 +3,7 @@
 <!-- ═════════════════════════ BANNER ═════════════════════════ -->
 
 <a href="https://github.com/shehadraza">
-<img src="./assets/banner.png" alt="Shehad Raza — Software Engineer" width="100%"/>
+<img src="./assets/banner.svg" alt="Shehad Raza — Software Engineer" width="100%"/>
 </a>
 
 <br/>
